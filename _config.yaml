@@ -1,4 +1,4 @@
 title: "Simple Webpage"
 description: "This site has a theme!"
 email: "srappel@uwm.edu"
-remote_theme: poole/poole
+remote_theme: pages-themes/hacker
